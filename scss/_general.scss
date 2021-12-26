@@ -358,19 +358,24 @@
 
         }
     }
-    .btn {
-        width: 147px;
-        height: 56px;
+    &__btn {
         display: block;
-        margin-top: 34px;
-        margin-left: 568px;
-        border: none;
-        border-radius: 100px;
-        background-color: $main_color;
-        color: white;
-        font-size: 16px;
-        font-weight: 800;
-        text-transform: uppercase;
+        margin: 0 auto;
+        margin-top: 32px;
+        width: 200px;
+        .btn {
+            margin-left: 38px;
+            width: 147px;
+            height: 56px;
+            display: block;
+            border: none;
+            border-radius: 100px;
+            background-color: $main_color;
+            color: white;
+            font-size: 16px;
+            font-weight: 800;
+            text-transform: uppercase;
+        }
     }
 }
 
@@ -504,19 +509,24 @@
 
         }
     }
-    .btn {
-        width: 147px;
-        height: 56px;
+    &__btn {
         display: block;
+        margin: 0 auto;
         margin-top: 32px;
-        margin-left: 568px;
-        border: none;
-        border-radius: 100px;
-        background-color: $main_color;
-        color: white;
-        font-size: 16px;
-        font-weight: 800;
-        text-transform: uppercase;
+        width: 200px;
+        .btn {
+            margin-left: 38px;
+            width: 147px;
+            height: 56px;
+            display: block;
+            border: none;
+            border-radius: 100px;
+            background-color: $main_color;
+            color: white;
+            font-size: 16px;
+            font-weight: 800;
+            text-transform: uppercase;
+        }
     }
 }
 
